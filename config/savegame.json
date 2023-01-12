@@ -1,0 +1,61 @@
+{
+  "currencyAmount" : 0.0,
+  "currencyGain" : 0.0,
+  "allUpgrades" : [ {
+    "amount" : 1,
+    "cost" : 10.0,
+    "value" : 1.0,
+    "baseCost" : 10.0,
+    "baseAmount" : 1.0,
+    "valuePerUpgrade" : 1.0
+  }, {
+    "amount" : 0,
+    "cost" : 15.0,
+    "value" : 0.0,
+    "baseCost" : 15.0,
+    "baseAmount" : 0.0,
+    "valuePerUpgrade" : 0.1
+  }, {
+    "amount" : 0,
+    "cost" : 100.0,
+    "value" : 0.0,
+    "baseCost" : 100.0,
+    "baseAmount" : 0.0,
+    "valuePerUpgrade" : 0.5
+  }, {
+    "amount" : 0,
+    "cost" : 500.0,
+    "value" : 0.0,
+    "baseCost" : 500.0,
+    "baseAmount" : 0.0,
+    "valuePerUpgrade" : 4.0
+  }, {
+    "amount" : 0,
+    "cost" : 3000.0,
+    "value" : 0.0,
+    "baseCost" : 3000.0,
+    "baseAmount" : 0.0,
+    "valuePerUpgrade" : 10.0
+  }, {
+    "amount" : 0,
+    "cost" : 5000.0,
+    "value" : 0.0,
+    "baseCost" : 5000.0,
+    "baseAmount" : 0.0,
+    "valuePerUpgrade" : 25.0
+  }, {
+    "amount" : 0,
+    "cost" : 10000.0,
+    "value" : 0.0,
+    "baseCost" : 10000.0,
+    "baseAmount" : 0.0,
+    "valuePerUpgrade" : 40.0
+  }, {
+    "amount" : 0,
+    "cost" : 200000.0,
+    "value" : 0.0,
+    "baseCost" : 200000.0,
+    "baseAmount" : 0.0,
+    "valuePerUpgrade" : 400.0
+  } ]
+}

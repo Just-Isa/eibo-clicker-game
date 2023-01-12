@@ -1,0 +1,19 @@
+{ 
+	"amount": "Anzahl",
+	"buy": "Kaufen",
+	"per_click": "pro Klick",
+	"cost": "Kosten",
+	"first_scene": "Clicker",
+	"gain": "Nutzen",
+	"music": "Musik",
+	"not_enough": "Zu wenig",
+	"not_successful": "fehlgeschlagen",
+	"reset": "Spielstand löschen",
+	"second_scene": "Upgrades",
+	"successful": "erfolgreich",
+	"theme_switch": "Thema wechseln",
+	"third_scene": "Einstellungen",
+	"time_interval": "pro Sekunde",
+	"turn_off": "ausschalten",
+	"turn_on": "anschalten"
+}

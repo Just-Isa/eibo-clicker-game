@@ -1,0 +1,92 @@
+{
+	"good": {
+		"clickable_image": "themes/good/Clickable.png",
+		"clicked_image": "themes/good/Clicked.png",
+		"currency": "bekämpfte Viren",
+		"upgrades": [{
+			"name": "Virus bekämpfen",
+			"image": "themes/good/upgrade0.png"
+		}, {
+			"name": "Hände waschen",
+			"image": "themes/good/upgrade1.png"		
+		}, {
+			"name": "Abstand halten",
+			"image": "themes/good/upgrade2.png"
+		}, {
+			"name": "Mundschutz",
+			"image": "themes/good/upgrade3.png"
+		}, {
+			"name": "Reisebeschränkung",
+			"image": "themes/good/upgrade4.png"
+		}, {
+			"name": "Homeoffice Pflicht",
+			"image": "themes/good/upgrade5.png"
+		}, {
+			"name": "Lockdown",
+			"image": "themes/good/upgrade6.png"
+		}, {
+			"name": "Impfstoff",
+			"image": "themes/good/upgrade7.png"
+		}]
+	},
+	"evil": {
+		"clickable_image": "themes/evil/Clickable.png",
+		"clicked_image": "themes/evil/Clicked.png",
+		"currency": "verbreitete Viren",
+		"upgrades": [{
+			"name": "Virus verbreiten",
+			"image": "themes/evil/upgrade0.png"
+		}, {
+			"name": "Wuhan Markt",
+			"image": "themes/evil/upgrade1.png"		
+		}, {
+			"name": "Ischgl Skihütte",
+			"image": "themes/evil/upgrade2.png"
+		}, {
+			"name": "Tönnies",
+			"image": "themes/evil/upgrade3.png"
+		}, {
+			"name": "Private Feiern",
+			"image": "themes/evil/upgrade4.png"
+		}, {
+			"name": "Querdenker",
+			"image": "themes/evil/upgrade5.png"
+		}, {
+			"name": "Englandmutation",
+			"image": "themes/evil/upgrade6.png"
+		}, {
+			"name": "Präsenzklausuren",
+			"image": "themes/evil/upgrade7.png"
+		}]
+	},
+	"minimal": {
+		"clickable_image": "themes/minimal/Clickable.png",
+		"clicked_image": "themes/minimal/Clicked.png",
+		"currency": "Geld",
+		"upgrades": [{
+			"name": "Sparen",
+			"image": "themes/minimal/upgrade0.png"
+		}, {
+			"name": "Zinsen",
+			"image": "themes/minimal/upgrade1.png"	
+		}, {
+			"name": "Zinsen",
+			"image": "themes/minimal/upgrade2.png"
+		}, {
+			"name": "Zinsen",
+			"image": "themes/minimal/upgrade3.png"
+		}, {
+			"name": "Zinsen",
+			"image": "themes/minimal/upgrade4.png"
+		}, {
+			"name": "Zinsen",
+			"image": "themes/minimal/upgrade5.png"
+		}, {
+			"name": "Zinsen",
+			"image": "themes/minimal/upgrade6.png"
+		}, {
+			"name": "Zinsen",
+			"image": "themes/minimal/upgrade7.png"
+		}]
+	}
+}
