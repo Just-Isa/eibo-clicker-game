@@ -1,61 +1,61 @@
 {
-  "currencyAmount" : 0.0,
+  "currencyAmount" : 18.0,
   "currencyGain" : 0.0,
   "allUpgrades" : [ {
     "amount" : 1,
-    "cost" : 10.0,
+    "cost" : 11.5,
     "value" : 1.0,
-    "baseCost" : 10.0,
+    "valuePerUpgrade" : 1.0,
     "baseAmount" : 1.0,
-    "valuePerUpgrade" : 1.0
+    "baseCost" : 10.0
   }, {
     "amount" : 0,
     "cost" : 15.0,
     "value" : 0.0,
-    "baseCost" : 15.0,
+    "valuePerUpgrade" : 0.1,
     "baseAmount" : 0.0,
-    "valuePerUpgrade" : 0.1
+    "baseCost" : 15.0
   }, {
     "amount" : 0,
     "cost" : 100.0,
     "value" : 0.0,
-    "baseCost" : 100.0,
+    "valuePerUpgrade" : 0.5,
     "baseAmount" : 0.0,
-    "valuePerUpgrade" : 0.5
+    "baseCost" : 100.0
   }, {
     "amount" : 0,
     "cost" : 500.0,
     "value" : 0.0,
-    "baseCost" : 500.0,
+    "valuePerUpgrade" : 4.0,
     "baseAmount" : 0.0,
-    "valuePerUpgrade" : 4.0
+    "baseCost" : 500.0
   }, {
     "amount" : 0,
     "cost" : 3000.0,
     "value" : 0.0,
-    "baseCost" : 3000.0,
+    "valuePerUpgrade" : 10.0,
     "baseAmount" : 0.0,
-    "valuePerUpgrade" : 10.0
+    "baseCost" : 3000.0
   }, {
     "amount" : 0,
     "cost" : 5000.0,
     "value" : 0.0,
-    "baseCost" : 5000.0,
+    "valuePerUpgrade" : 25.0,
     "baseAmount" : 0.0,
-    "valuePerUpgrade" : 25.0
+    "baseCost" : 5000.0
   }, {
     "amount" : 0,
     "cost" : 10000.0,
     "value" : 0.0,
-    "baseCost" : 10000.0,
+    "valuePerUpgrade" : 40.0,
     "baseAmount" : 0.0,
-    "valuePerUpgrade" : 40.0
+    "baseCost" : 10000.0
   }, {
     "amount" : 0,
     "cost" : 200000.0,
     "value" : 0.0,
-    "baseCost" : 200000.0,
+    "valuePerUpgrade" : 400.0,
     "baseAmount" : 0.0,
-    "valuePerUpgrade" : 400.0
+    "baseCost" : 200000.0
   } ]
 }
